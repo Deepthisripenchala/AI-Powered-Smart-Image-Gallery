@@ -1,0 +1,10 @@
+streamlit==1.37.0
+google-generativeai==0.5.2
+Pillow==10.3.0
+numpy==1.26.0
+scikit-learn==1.4.1
+python-dotenv==1.0.1
+urllib3==2.1.0
+requests==2.31.0
+opencv-python==4.9.0.80
+pysqlite3-binary
