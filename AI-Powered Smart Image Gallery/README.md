@@ -17,5 +17,5 @@ A Streamlit-based intelligent visual search system that allows users to:
 - Outfit Planner & Chat integration
 
 # Installation
-pip install -r requirements.txt
+pip install -r requirements.txt, 
 streamlit run app.py
